@@ -14,7 +14,7 @@ public class BelongingPK implements Serializable {
     @JoinColumn(name = "game_id")
     private Game game;
     @ManyToOne
-    @JoinColumn(name = "list")
+    @JoinColumn(name = "list_id")
     private GameList list;
 
     public BelongingPK() {
