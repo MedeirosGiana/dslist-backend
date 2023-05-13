@@ -53,7 +53,7 @@ cd backend
   
 2. Ao executar o projeto, pode ser acessado um navegador da Web em **http://localhost:8080/ ou http://localhost:8080/h2-console**
 
-3. Interfaçe do Postman para utilizar/testar os endpoints.
+3. Interface do Postman para utilizar/testar os endpoints.
 
 
 ## Paso a passo do acesso através do deploy para realizar as consultas
