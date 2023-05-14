@@ -8,7 +8,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MedeirosGiana/dslist-backend/blob/main/LICENSE)
 
 ## Sobre o projeto
-Games Survey é uma aplicação back end construída durante  Intensivão Java Spring, evento organizado pela [DevSuperior] (https://devsuperior.com "Site da DevSuperior").
+Games Survey é uma aplicação back end construída durante  Intensivão Java Spring, evento organizado pela DevSuperior(https://devsuperior.com "Site da DevSuperior").
 A aplicação consiste em um sistema de coleções de jogos desenvolvido para organizar as coleções de jogos de um usuário, podendo posicionar os jogos de acordo com a ordem desejada.
 Para garantir uma maior flexibilidade e separação de responsabilidades, utilizei DTO para trafegar os dados entre as camadas, seguindo uma arquitetura em camadas padrão, incluindo as camadas de repository, service e controller, além das entidades do modelo.
 
@@ -53,7 +53,7 @@ cd backend
   
 2. Ao executar o projeto, pode ser acessado um navegador da Web em **http://localhost:8080/ ou http://localhost:8080/h2-console**
 
-3. Interface do Postman para utilizar/testar os endpoints.
+3. Utilizar a interface do Postman para testar os endpoints.
 
 
 ## Paso a passo do acesso através do deploy para realizar as consultas
